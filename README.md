@@ -1,3 +1,4 @@
+Este repositorio ha sido creado para albergar el código generado durante la creación del proyecto final del curso de Angular.
 # ControlClientes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
